@@ -1,3 +1,5 @@
-Intrusion detection on Automotive CAN Networks Using LSTM
+#Intrusion detection on Automotive CAN Networks Using LSTM
 
-Dataset: https://ocslab.hksecurity.net/Datasets/carchallenge2020
+##Dataset
+CAR HACKING: ATTACK & DEFENSE CHALLENGE 2020
+https://ocslab.hksecurity.net/Datasets/carchallenge2020
